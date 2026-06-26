@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="webmethodadaptor.client/webmethodadaptor.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="WebMethodAdaptor.Server/WebMethodAdaptor.Server.csproj" />
+</Solution>
