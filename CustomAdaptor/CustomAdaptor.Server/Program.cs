@@ -2,7 +2,6 @@ using CustomAdaptor.Server.Models;
 using Microsoft.AspNetCore.OData;
 using Microsoft.AspNetCore.OData.Batch;
 using Microsoft.OData.ModelBuilder;
-using CustomAdaptor.Server.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
